@@ -1,0 +1,108 @@
+:::: Log File ::::
+
+
+[25/8/2019 -- 19:51]  Info task started
+[25/8/2019 -- 19:53]  restarted!
+[25/8/2019 -- 19:54]  restarted!
+[25/8/2019 -- 19:55]  restarted!
+[25/8/2019 -- 19:58]  restarted!
+[25/8/2019 -- 20:3]  restarted!
+[25/8/2019 -- 20:3]  restarted!
+[25/8/2019 -- 20:4]  restarted!
+[25/8/2019 -- 20:4]  restarted!
+[25/8/2019 -- 20:5]  restarted!
+[25/8/2019 -- 20:6]  restarted!
+[25/8/2019 -- 20:6]  restarted!
+[25/8/2019 -- 20:6]  restarted!
+[25/8/2019 -- 20:7]  restarted!
+[25/8/2019 -- 20:7]  restarted!
+[25/8/2019 -- 20:7]  restarted!
+[25/8/2019 -- 20:8]  restarted!
+[25/8/2019 -- 20:8]  restarted!
+[25/8/2019 -- 20:9]  restarted!
+[25/8/2019 -- 20:9]  restarted!
+[25/8/2019 -- 20:9]  restarted!
+[25/8/2019 -- 20:9]  restarted!
+[25/8/2019 -- 20:10]  restarted!
+[25/8/2019 -- 20:10]  restarted!
+[25/8/2019 -- 20:10]  restarted!
+[25/8/2019 -- 20:12]  restarted!
+[25/8/2019 -- 20:12]  restarted!
+[25/8/2019 -- 20:12]  restarted!
+[25/8/2019 -- 20:13]  restarted!
+[25/8/2019 -- 20:14]  restarted!
+[25/8/2019 -- 20:16]  restarted!
+[25/8/2019 -- 20:17]  restarted!
+[25/8/2019 -- 20:17]  restarted!
+[25/8/2019 -- 20:18]  restarted!
+[25/8/2019 -- 20:21]  restarted!
+[25/8/2019 -- 20:22]  restarted!
+[25/8/2019 -- 20:23]  restarted!
+[25/8/2019 -- 20:23]  restarted!
+[25/8/2019 -- 20:24]  restarted!
+[25/8/2019 -- 20:30]  restarted!
+[25/8/2019 -- 20:30]  restarted!
+[25/8/2019 -- 20:31]  restarted!
+[27/8/2019 -- 16:12]  Info task started
+[27/8/2019 -- 16:14]  Scripts ran on main.js
+[27/8/2019 -- 16:14]  Scripts ran on main.js
+[27/8/2019 -- 16:16]  Scripts ran on main.js
+[27/8/2019 -- 16:18]  Scripts ran on main.js
+[27/8/2019 -- 16:19]  Scripts ran on main.js
+[27/8/2019 -- 16:20]  Scripts ran on main.js
+[27/8/2019 -- 16:24]  Scripts ran on main.js
+[27/8/2019 -- 16:24]  Info task started
+[27/8/2019 -- 16:25]  Scripts ran on main.js
+[27/8/2019 -- 16:32]  Scripts ran on main.js
+[27/8/2019 -- 16:34]  Scripts ran on main.js
+[27/8/2019 -- 16:35]  Scripts ran on main.js
+[27/8/2019 -- 16:39]  Scripts ran on main.js
+[27/8/2019 -- 16:41]  Scripts ran on main.js
+[27/8/2019 -- 16:43]  Scripts ran on main.js
+[27/8/2019 -- 16:43]  Scripts ran on main.js
+[27/8/2019 -- 16:44]  Scripts ran on main.js
+[27/8/2019 -- 16:45]  Scripts ran on main.js
+[27/8/2019 -- 16:47]  Scripts ran on main.js
+[27/8/2019 -- 16:47]  Scripts ran on main.js
+[27/8/2019 -- 16:48]  Scripts ran on main.js
+[27/8/2019 -- 16:55]  Scripts ran on main.js
+[27/8/2019 -- 16:56]  Scripts ran on main.js
+[27/8/2019 -- 16:57]  Scripts ran on main.js
+[27/8/2019 -- 16:58]  Scripts ran on main.js
+[27/8/2019 -- 16:59]  Scripts ran on main.js
+[27/8/2019 -- 16:59]  Scripts ran on main.js
+[27/8/2019 -- 17:9]  Scripts ran on main.js
+[27/8/2019 -- 17:13]  Scripts ran on main.js
+[27/8/2019 -- 17:13]  Sass ran on files
+[27/8/2019 -- 17:13]  Scripts ran on main.js
+[27/8/2019 -- 17:14]  Scripts ran on main.js
+[27/8/2019 -- 17:14]  Scripts ran on main.js
+[27/8/2019 -- 17:14]  Scripts ran on main.js
+[27/8/2019 -- 17:15]  Scripts ran on main.js
+[27/8/2019 -- 17:16]  Scripts ran on main.js
+[27/8/2019 -- 17:18]  Sass ran on files
+[27/8/2019 -- 17:18]  Scripts ran on main.js
+[27/8/2019 -- 17:19]  Sass ran on files
+[27/8/2019 -- 17:19]  Sass ran on files
+[27/8/2019 -- 17:19]  Sass ran on files
+[27/8/2019 -- 17:19]  Sass ran on files
+[28/8/2019 -- 9:22]  Info task started
+[28/8/2019 -- 9:36]  restarted!
+[28/8/2019 -- 9:38]  restarted!
+[28/8/2019 -- 9:40]  restarted!
+[28/8/2019 -- 9:41]  Scripts ran on main.js
+[28/8/2019 -- 9:43]  Scripts ran on main.js
+[28/8/2019 -- 9:46]  Scripts ran on main.js
+[28/8/2019 -- 9:48]  Scripts ran on main.js
+[28/8/2019 -- 9:48]  Scripts ran on main.js
+[28/8/2019 -- 9:50]  restarted!
+[28/8/2019 -- 9:51]  Scripts ran on main.js
+[28/8/2019 -- 9:51]  restarted!
+[28/8/2019 -- 9:52]  restarted!
+[28/8/2019 -- 9:52]  Scripts ran on main.js
+[28/8/2019 -- 9:55]  Scripts ran on main.js
+[28/8/2019 -- 9:55]  Scripts ran on main.js
+[28/8/2019 -- 9:57]  Scripts ran on main.js
+[28/8/2019 -- 9:59]  Scripts ran on main.js
+[28/8/2019 -- 10:0]  Scripts ran on main.js
+[28/8/2019 -- 10:0]  restarted!
